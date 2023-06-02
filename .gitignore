@@ -1,0 +1,4 @@
+libraries/*/*
+CMakeFiles
+*cppcheck*
+*.zip
