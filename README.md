@@ -79,3 +79,5 @@ TODO
 
 	Soham Korade
 	2021101131
+
+NOTE: Some of the assets used in the game are not my own and are used for learning purposes only.
